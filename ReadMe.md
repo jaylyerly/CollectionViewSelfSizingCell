@@ -1,0 +1,1 @@
+This is a very simple example of using self sizing cells in a collection view under iOS 8.  The important bit is setting the 'estimatedItemSize' parameter on the CollectionViewFlowLayout, which activates the magic.  It also the system dynamic type attribute to change the font size in the cell.
